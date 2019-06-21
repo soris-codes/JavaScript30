@@ -2,12 +2,12 @@
 
 # JavaScript30
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+You can start the challenge at [https://JavaScript30.com](https://JavaScript30.com)
 
-# Completed Challenges
+# My Completed Challenges
 | DAY    | CHALLENGE            | DEMO   |  NOTES  |
 |--------|:--------------------:|:------:|:-------:|
-| 1      | JS Drum Kit | [DEMO](https://soris-codes.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/) |   |
+| 1      | JS Drum Kit | [DEMO](https://soris-codes.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/) | [NOTES](https://soris-codes.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/readme.md)  |
 | 2      | JS/CSS Clock |[DEMO](https://soris-codes.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/) |   |
 
 
