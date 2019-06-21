@@ -2,10 +2,10 @@
 
 # JavaScript30
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+Vanilla JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-## My Solutions
+## Project List
 
-[Drop the Beet](https://github.com/soris-codes/JavaScript30/blob/drum/01%20-%20JavaScript%20Drum%20Kit/index-START.html) - JS Drum Kit. Changed some CSS elements to go with the "beet" theme. 
+[JS Drum Kit](https://soris-codes.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/) - "Drop the Beet". Changed some CSS elements to go with the "beet" theme. 
