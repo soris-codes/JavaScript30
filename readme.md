@@ -2,11 +2,13 @@
 
 # JavaScript30
 
-Vanilla JavaScript 30 Day Challenge.
-
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-## As I complete each challenge, I'll be updating the [Completed Projects](https://soris-codes.github.io/JavaScript30/) page with demos and notes.
+# Completed Challenges
+| DAY    | CHALLENGE            | DEMO   |  NOTES  |
+|--------|:--------------------:|:------:|:-------:|
+| 1      | JS Drum Kit | [DEMO](https://soris-codes.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/) |   |
+| 2      | JS/CSS Clock |[DEMO](https://soris-codes.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/) |   |
 
 
 
