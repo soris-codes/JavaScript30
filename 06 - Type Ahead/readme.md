@@ -7,4 +7,4 @@
   * Used regular expressions to determine which matching substrings in the results should be highlighted
   * Used regular expression to determine where to include commas on the population totals
 
-  
+

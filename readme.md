@@ -12,5 +12,6 @@ You can start the challenge at [https://JavaScript30.com](https://JavaScript30.c
 | 3      | CSS Variables |[DEMO](https://soris-codes.github.io/JavaScript30/03%20-%20CSS%20Variables/) | [NOTES](https://github.com/soris-codes/JavaScript30/tree/master/03%20-%20CSS%20Variables)  |
 | 4      | Array Cardio 1 | N/A | [NOTES](https://github.com/soris-codes/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)  |
 | 5      | Flex Panels Gallery | [DEMO](https://soris-codes.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/) | [NOTES](https://github.com/soris-codes/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)  |
+| 6      | Type Ahead | [DEMO](https://soris-codes.github.io/JavaScript30/06%20-%20Type%20Ahead/) | [NOTES](https://github.com/soris-codes/JavaScript30/tree/master/06%20-%20Type%20Ahead)  |
 
 
