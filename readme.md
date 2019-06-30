@@ -15,4 +15,3 @@ You can start the challenge at [https://JavaScript30.com](https://JavaScript30.c
 | 6      | Type Ahead | [DEMO](https://soris-codes.github.io/JavaScript30/06%20-%20Type%20Ahead/) | [NOTES](https://github.com/soris-codes/JavaScript30/tree/master/06%20-%20Type%20Ahead)  |
 | 7      | Array Cardio 2 | [DEMO](https://soris-codes.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/) | [NOTES](https://github.com/soris-codes/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)  |
 
-
