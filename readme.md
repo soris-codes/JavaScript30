@@ -18,3 +18,4 @@ You can start the challenge at [https://JavaScript30.com](https://JavaScript30.c
 | 9      | Dev Tools Domination | [DEMO](https://soris-codes.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/) | [NOTES](https://github.com/soris-codes/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)  |
 | 10      | Hold Shift and Check Checkboxes | [DEMO](https://soris-codes.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/) | [NOTES](https://github.com/soris-codes/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)  |
 | 11      | Custom Video Player | [DEMO](https://soris-codes.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/) | N/A  |
+| 17      | Sort Without Articles | [DEMO](https://soris-codes.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/) | [NOTES](https://github.com/soris-codes/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles)  |
